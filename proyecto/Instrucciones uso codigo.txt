@@ -1,0 +1,210 @@
+﻿--------------------
+INSTRUCCIONES DE USO
+--------------------
+Se debe tener una carpeta para 2017 y otra para 1990, cada uno con sus correspondientes índices sociales, nombres de los países y una carpeta de Aristas con los ficheros para poder generarlas.
+
+1)Ejecutar el archivo generarRed.bat
+
+2)Seleccionar la red que se quiere generar (2017 o 1990)
+
+3)Indicar si se quiere generar otra red o no. En caso afirmativo, volver a seleccionar cuál. En caso negativo, acaba la ejecución del programa.
+
+--------------------
+Nombres de países sobre los que se ha obtenido información
+Afganistan
+Albania
+Alemania
+Andorra
+Angola
+Antigua y Barbuda
+Arabia Saudita
+Argelia
+Argentina
+Armenia
+Australia
+Austria
+Azerbaiyan
+Bahamas
+Banglades
+Barbados
+Barein
+Belgica
+Belice
+Benin
+Bielorrusia
+Birmania   Myanmar
+Bolivia
+Bosnia y Herzegovina
+Botsuana
+Brasil
+Brunei
+Bulgaria
+Burkina Faso
+Burundi
+Butan
+Cabo Verde
+Camboya
+Camerun
+Canada
+Catar
+Chad
+Chile
+China
+Chipre
+Colombia
+Comoras
+Corea del Norte
+Corea del Sur
+Costa de Marfil
+Costa Rica
+Croacia
+Cuba
+Dinamarca
+Dominica
+Ecuador
+Egipto
+El Salvador
+Emiratos Arabes Unidos
+Eritrea
+Eslovaquia
+Eslovenia
+Espana
+Estado de Palestina
+Estados Federados de Micronesia
+Estados Unidos
+Estonia
+Etiopia
+Filipinas
+Finlandia
+Fiyi
+Francia
+Gabon
+Gambia
+Georgia
+Ghana
+Granada
+Grecia
+Guatemala
+Guinea
+Guinea Ecuatorial
+Guinea Bisau
+Guyana
+Haiti
+Holanda
+Honduras
+Hong Kong
+Hungria
+India
+Indonesia
+Irak
+Iran
+Irlanda
+Islandia
+Islas Marshall
+Islas Salomon
+Israel
+Italia
+Jamaica
+Japon
+Jordania
+Kazajistan
+Kenia
+Kirguistan
+Kiribati
+Kuwait
+Laos
+Lesoto
+Letonia
+Libano
+Liberia
+Libia
+Liechtenstein
+Lituania
+Luxemburgo
+Madagascar
+Malasia
+Malaui
+Maldivas
+Mali
+Malta
+Marruecos
+Mauricio
+Mauritania
+Mexico
+Moldavia
+Monaco
+Mongolia
+Montenegro
+Mozambique
+Namibia
+Nauru
+Nepal
+Nicaragua
+Niger
+Nigeria
+Noruega
+Nueva Zelanda
+Oman
+Pakistan
+Palaos
+Panama
+Papua Nueva Guinea
+Paraguay
+Peru
+Polonia
+Portugal
+Reino Unido
+Republica Centroafricana
+Republica Checa
+Republica de Macedonia
+Republica del Congo
+Republica Democratica del Congo
+Republica Dominicana
+Ruanda
+Rumania
+Rusia
+Samoa
+San Cristobal y Nieves
+San Marino
+San Vicente y las Granadinas
+Santa Lucia
+Santo Tome y Principe
+Senegal
+Serbia
+Seychelles
+Sierra Leona
+Singapur
+Siria
+Somalia
+Sri Lanka
+Suazilandia
+Sudafrica
+Sudan
+Sudan del Sur
+Suecia
+Suiza
+Surinam
+Tailandia
+Tanzania
+Tayikistan
+Timor Oriental
+Togo
+Tonga
+Trinidad y Tobago
+Tunez
+Turkmenistan
+Turquia
+Tuvalu
+Ucrania
+Uganda
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela
+Vietnam
+Yemen
+Yibuti
+Zambia
+Zimbabue
+
+
